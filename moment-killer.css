@@ -1,0 +1,3 @@
+#global-actions > li.moments.js-moments-tab > a {
+  display: none !important;
+}
