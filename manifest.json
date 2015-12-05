@@ -13,8 +13,6 @@
   "permissions": [
     "contentSettings",
     "tabs",
-    "https://twitter.com*",
-    ""
   ],
   "content_scripts": [
     {
